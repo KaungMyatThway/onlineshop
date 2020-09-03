@@ -1,4 +1,4 @@
-=> define route
+e=> define route
   - routes.php
 
 => create controller
@@ -13,5 +13,3 @@
 => Start Laravel
 
 http://heinminhtet.com/ubuntu_note/laravel_install.html
-
-second test
